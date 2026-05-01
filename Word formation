@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JIhad web </title>
+    </head>
+    <body>
+        <p><strong>learning HTMLcode .</strong>  <b>My name is JIhad Islam.
+        </b><i> I am a I want to become a software engineer.</i>
+            <em>Now I reading CST in Bogura Polytechnic Instuite.</em> 
+            <mark>My Passion is programming.</mark> <small>
+                phython is my favourite subject</small> <del>love is 
+                    powerful</del> Money is powerful. <ins>Extra odinary person</ins>
+                    <h2><b>My pc Pice</b></h2>
+         </p>
+
+        <p> Price= log<sub>2</sub>20<sup>2</sup></p>
+
+
+    </body>
+
+</html>
