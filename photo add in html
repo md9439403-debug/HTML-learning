@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JIhad web </title>
+    </head>
+    <body>
+ <p> <h2 style="background-color: yellow;"><b>The picture of a cow</b></h2></p>
+ <img width= 700 height=500 
+ src="image/download (1).jpg" alt="cow image1">
+ <img src="image/download (2).jpg" alt="cow image2">
+ <img src="image/download.jpg" alt="cow image3">
+ <p>1 cow,<hr> 2 cow<br> 3cow</p>
+ <h2> cow price</h2>
+
+</body>
+
+</html>\
