@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> uff cow </title>
+    </head>
+    <body>
+        <!-- headings -->
+       <h1 title="Biig cow" id="biig-cow"> This is a Biig cow</h1>
+       <h2>This is a Big cow</h2>
+       <h3>This is midium cow</h3>
+       <h4 style="color: brown;">This is a Small brown cow </h4>
+       <h5>This is a too small cow</h5>
+       <h6>This is a mini cow</h6> 
+       <p> This is a big cow . Cow is my close friend. 
+        The cow has 4 legs.Every Time cow says that hamba
+         and hamba and hambaand hambaand hambaand hambaand hambaand hambaand hamba</p>
+    </body>
+</html>
