@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>JIhad's detais</title>">
+<style>
+    body {
+        background-color:rgb(190, 190, 224);
+        
+    }
+</style>
+<body>
+    <h1>Jihad's details</h1>
+    <img src="image/JIhad.png" alt="jihad's photo"width="200" height="200">
+    <p>My name is Md. Jihad Islam and I am 18 years old. Iam a student at the Institute of Technology and Management.
+    I am passionate about programming and technology. I enjoy learning new programming languages .</p>
+    <h3>My Intersests</h3>
+
+    <ol>
+    <li>Programming</li>
+    <li>Technology</li>
+    <li>Traveling</li>
+    <li>Learning</li>
+    <li>Enjoying</li>
+    </ol>
+    <h3>My Goals</h3>
+    <ul>
+    <li>To become a skilled software developer</li>
+    <li>To contribute to open-source projects</li>
+    <li>To make a positive impact in the tech industry</li>
+    <li>To continuously learn and improve my skills</li>
+
+    </ul>
+<h3>Pesonal Information</h3>
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <td>Md. Jihad Islam</td>
+    </tr>
+    <tr>
+        <th>Age</th>
+        <td>18</td>
+    </tr>
+    <tr>
+        <th>Education</th>
+        <td>Student at Bogura Polytechnic Instiute</td>
+        
+    </tr>
+        <tr>
+            <th>Department</th>
+            <td>Computer Science and Technnology</td>
+        </tr>
+</table>
+<h3>Contacts Informatiom</h3>
+<ul>
+    <li><a href="md9439403@gmail.com">Email</a></li>
+    <li><a href="https://www.linkedin.com/in/md-zihad-islam-3007623b2">Linkedin</a></li>
+    <li><a href="https://github.com/md9439403-debug">Github</a></li>
+    <li><a href="https://www.facebook.com/jihad.islam.27765">Facebook</a></li>
+
+
+</ul>
+
+</body>
+</html>
+
